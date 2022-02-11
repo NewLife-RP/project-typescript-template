@@ -1,0 +1,12 @@
+## npm modules
+node_modules
+
+## Lock file
+yarn.Lock
+package-lock.json
+
+# Env
+.env
+
+# Output typescript build file
+dist

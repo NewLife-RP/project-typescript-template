@@ -1,0 +1,9 @@
+{
+  "extends": "@dantm1/ts-config",
+  "compilerOptions": {
+    "rootDir": "src",
+    "outDir": "dist",
+    "tsBuildInfoFile": "dist/.tsbuildinfo"
+  },
+  "include": ["src"]
+}
